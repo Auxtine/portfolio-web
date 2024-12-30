@@ -12,4 +12,4 @@ The site is fully responsive, ensuring a seamless experience across all devices.
 
 ## Live Demo
 
-Check out the deployed project: [React E-Commerce Website](https://auxtine.github.io/portfolio-web/#/)
+Check out the deployed project: [Portfolio Website](https://auxtine.github.io/portfolio-web/#/)
